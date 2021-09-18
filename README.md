@@ -1,4 +1,4 @@
-# BootstrapSlideshowInCustom
+# Bootstrap Slideshow In Custom Joomla Module
 Bootstrap Slideshow In Custom Module using Custom Module Override.
 
 ## How to use it
