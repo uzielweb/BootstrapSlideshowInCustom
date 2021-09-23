@@ -3,7 +3,7 @@ Bootstrap Slideshow In Custom Module using Custom Module Override.
 
 ## How to use it
 - put this file insite /yourtemplate/html/mod_custom/
-- create a module and choose bootstrap-slideshw as layout
+- create a module and choose bootstrap-slidesohw as layout
 - insert in module class sufix field this above:
  myownposition show_indicators show_controls ratio-21
 or this above:
