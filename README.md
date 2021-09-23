@@ -15,7 +15,7 @@ or this above:
 If ou set a background image to the module, so the aspect ratio can be set to anothers, like  ratio-16
 
 # Folder Bootstrap Slideshow In Custom Joomla Module
-Get all images froom a folder an mount a Bootstrap Slideshow In Custom Module using Custom Module Override.
+Get all images from a folder and mount a Bootstrap Slideshow In Custom Module using Custom Module Override.
 
 ## How to use it
 - upload the file **folder-bootstrap-slideshow** inside /yourtemplate/html/mod_custom/
