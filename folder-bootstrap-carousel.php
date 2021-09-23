@@ -75,7 +75,7 @@ if ($show_indicators == 'show_indicators') :?>
 		?>
 	</div>
 	<?php if ($show_controls == 'show_controls') : ?>
-	<a class="carousel-control-prev" data-bs-target=#bootstrapCustomCarousel<?php echo $module->id; ?>" role="button" data-bs-slide="prev">
+	<a class="carousel-control-prev" data-bs-target="#bootstrapCustomCarousel<?php echo $module->id; ?>" role="button" data-bs-slide="prev">
 		<span class="carousel-control-prev-icon" aria-hidden="true"></span>
 		<span class="sr-only">Previous</span>
 	</a>
